@@ -49,9 +49,9 @@ export const businessConfig = {
     "link": "/services"
   },
   "phone": "916-317-8904",
-  "whatsapp": "+19163178904",
-  "email": "info@osoriocastrocleaning.com",
-  "address": "123 Main St, Sacramento, CA 95823",
+  "whatsapp": "19163178904",
+  "email": "",
+  "address": "Sacramento, CA 95823",
   "location": "Sacramento, CA",
   "mapsEmbed": "https://maps.google.com/maps?q=Sacramento&t=&z=15&ie=UTF8&iwloc=&output=embed",
   "calendlyUrl": "https://calendly.com/m-v-raghupathisai/30min",
