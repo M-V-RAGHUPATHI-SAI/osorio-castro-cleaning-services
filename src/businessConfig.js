@@ -1,6 +1,5 @@
 // Osorio Castro Cleaning Services — businessConfig
-// Generated: 2026-06-09 15:53
-// Edit freely. Re-run the generator to rebuild from scratch.
+// Images refreshed: 2026-06-09 15:57
 
 export const businessConfig = {
   "name": "Osorio Castro Cleaning Services",
@@ -35,7 +34,7 @@ export const businessConfig = {
   "headlineBold": "Trusted results",
   "heroKeyword": "CLEAN",
   "heroImage": "/hero-generated.jpg",
-  "aboutImage": "https://images.pexels.com/photos/8134772/pexels-photo-8134772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "aboutImage": "https://images.pexels.com/photos/7045992/pexels-photo-7045992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "heroSubtext": "Licensed and insured",
   "ctaBannerHeadline": "Get a quote",
   "ctaBannerSubtext": "Get a free quote in minutes",
@@ -171,7 +170,7 @@ export const businessConfig = {
         "Thorough cleaning",
         "Flexible scheduling"
       ],
-      "image": "/residential-cleaning-generated.jpg",
+      "image": "/service-1-generated.jpg",
       "price": "from $100",
       "badge": "Most Popular"
     },
@@ -188,7 +187,7 @@ export const businessConfig = {
         "Customizable schedules",
         "Attention to detail"
       ],
-      "image": "/office-cleaning-generated.jpg",
+      "image": "/service-2-generated.jpg",
       "price": "from $200",
       "badge": null
     },
@@ -205,7 +204,7 @@ export const businessConfig = {
         "Thorough cleaning",
         "Flexible scheduling"
       ],
-      "image": "/apartment-cleaning-generated.jpg",
+      "image": "/service-3-generated.jpg",
       "price": "from $150",
       "badge": null
     },
@@ -222,7 +221,7 @@ export const businessConfig = {
         "Thorough cleaning",
         "Attention to detail"
       ],
-      "image": "/deep-cleaning-generated.jpg",
+      "image": "/service-4-generated.jpg",
       "price": "from $300",
       "badge": null
     },
@@ -239,7 +238,7 @@ export const businessConfig = {
         "Thorough cleaning",
         "Flexible scheduling"
       ],
-      "image": "/move-in-move-out-cleaning-generated.jpg",
+      "image": "/service-5-generated.jpg",
       "price": "from $250",
       "badge": null
     }
@@ -272,62 +271,69 @@ export const businessConfig = {
   ],
   "gallery": [
     {
-      "src": "https://images.pexels.com/photos/7167061/pexels-photo-7167061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7005291/pexels-photo-7005291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "luxury apartment after clean"
     },
     {
-      "src": "https://images.pexels.com/photos/6636316/pexels-photo-6636316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7535015/pexels-photo-7535015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "premium lounge clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7587741/pexels-photo-7587741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7534298/pexels-photo-7534298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "office clean Sacramento"
     },
     {
-      "src": "https://images.pexels.com/photos/7061337/pexels-photo-7061337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6958140/pexels-photo-6958140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "kitchen deep clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7533853/pexels-photo-7533853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6523300/pexels-photo-6523300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "bedroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7060816/pexels-photo-7060816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6636289/pexels-photo-6636289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "commercial space clean"
     },
     {
-      "src": "https://images.pexels.com/photos/6283972/pexels-photo-6283972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7587733/pexels-photo-7587733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "bathroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7534280/pexels-photo-7534280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6987727/pexels-photo-6987727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "living room clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7214453/pexels-photo-7214453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6835136/pexels-photo-6835136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "hallway clean result"
     }
   ],
   "videoUrl": "",
   "marqueeImages": [
-    "https://images.pexels.com/photos/7167061/pexels-photo-7167061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/6636316/pexels-photo-6636316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7587741/pexels-photo-7587741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7061337/pexels-photo-7061337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7533853/pexels-photo-7533853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7060816/pexels-photo-7060816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/6283972/pexels-photo-6283972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7534280/pexels-photo-7534280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7214453/pexels-photo-7214453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/7005291/pexels-photo-7005291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7535015/pexels-photo-7535015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7534298/pexels-photo-7534298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6958140/pexels-photo-6958140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6523300/pexels-photo-6523300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6636289/pexels-photo-6636289.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7587733/pexels-photo-7587733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6987727/pexels-photo-6987727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6835136/pexels-photo-6835136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "/service-1-generated.jpg",
+    "/service-2-generated.jpg",
+    "/service-3-generated.jpg",
+    "/service-4-generated.jpg",
+    "/service-5-generated.jpg",
+    "/service-6-generated.jpg",
+    "https://images.pexels.com/photos/7005291/pexels-photo-7005291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "beforeAfter": [
     {
@@ -335,48 +341,48 @@ export const businessConfig = {
       "category": "Residential",
       "title": "Move-Out Clean",
       "description": "City centre apartment, Sacramento",
-      "before": "https://images.pexels.com/photos/27901661/pexels-photo-27901661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/8134772/pexels-photo-8134772.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/17719017/pexels-photo-17719017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7045992/pexels-photo-7045992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 2,
       "category": "Residential",
       "title": "Deep Clean",
       "description": "Luxury high-rise, Sacramento",
-      "before": "https://images.pexels.com/photos/20643651/pexels-photo-20643651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7167061/pexels-photo-7167061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/25391586/pexels-photo-25391586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7005291/pexels-photo-7005291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 3,
       "category": "Commercial",
       "title": "Office Clean",
       "description": "Commercial space, Sacramento",
-      "before": "https://images.pexels.com/photos/20044946/pexels-photo-20044946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/6636316/pexels-photo-6636316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/8832936/pexels-photo-8832936.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7535015/pexels-photo-7535015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 4,
       "category": "Residential",
       "title": "End of Tenancy",
       "description": "Apartment complex, Sacramento",
-      "before": "https://images.pexels.com/photos/3829560/pexels-photo-3829560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7587741/pexels-photo-7587741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/15968619/pexels-photo-15968619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7534298/pexels-photo-7534298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 5,
       "category": "Interior",
       "title": "Kitchen Restoration",
       "description": "City centre flat, Sacramento",
-      "before": "https://images.pexels.com/photos/20643649/pexels-photo-20643649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7061337/pexels-photo-7061337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/35505452/pexels-photo-35505452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6958140/pexels-photo-6958140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 6,
       "category": "Residential",
       "title": "Post-Renovation",
       "description": "New build, Sacramento",
-      "before": "https://images.pexels.com/photos/7111397/pexels-photo-7111397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7533853/pexels-photo-7533853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/9993440/pexels-photo-9993440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6523300/pexels-photo-6523300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "projects": [
@@ -384,25 +390,25 @@ export const businessConfig = {
       "category": "Residential",
       "title": "Downtown Loft",
       "location": "Downtown Sacramento",
-      "img": "https://images.pexels.com/photos/7167061/pexels-photo-7167061.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7005291/pexels-photo-7005291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Commercial",
       "title": "Office Building",
       "location": "Midtown Sacramento",
-      "img": "https://images.pexels.com/photos/7587741/pexels-photo-7587741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7534298/pexels-photo-7534298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Residential",
       "title": "Suburban Home",
       "location": "Carmichael, Sacramento",
-      "img": "https://images.pexels.com/photos/6636316/pexels-photo-6636316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7535015/pexels-photo-7535015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Interior",
       "title": "Kitchen Renovation",
       "location": "East Sacramento",
-      "img": "https://images.pexels.com/photos/7061337/pexels-photo-7061337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/6958140/pexels-photo-6958140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "testimonials": [
